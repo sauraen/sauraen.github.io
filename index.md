@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Sauraen
 
-You can use the [editor on GitHub](https://github.com/sauraen/sauraen.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+- Systems & low-level software engineer, audio & GPU focus
+- [Game](https://bandcamp.materiacollective.com/album/yin-yang-a-oneshot-concept-album) [music](https://soundcloud.com/sauraen/botw-switch-oot) [arranger](https://www.youtube.com/watch?v=n94p_LYpr3s)
+- [Tools](https://github.com/sauraen) developer for the N64 community
+- Department Head of Lighting at MAGWest; Music A/V Staff (Lighting) at MAGFest
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Careers
 
-### Markdown
+I'm graduating at the end of summer 2022--PhD in electrical engineering--and looking for work, either in tech or in games. If your team is creating complex, groundbreaking systems or deeply meaningful artistic experiences and you're looking for someone who understands modern systems at the lowest levels, please reach out!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contact
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sauraen/sauraen.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+My name at Google's email service, or Sauraen#0047 on Discord.
