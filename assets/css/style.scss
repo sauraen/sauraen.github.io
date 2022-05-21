@@ -3,6 +3,8 @@
 @import "{{ site.theme }}";
 header {
   h1 {
-    color: #fb6504;
+    a {
+      color: #fb6504;
+    }
   }
 }
