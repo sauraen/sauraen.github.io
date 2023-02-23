@@ -8,7 +8,7 @@
 
 ### Careers
 
-I'm graduating at the end of summer 2022---PhD in electrical engineering---and looking for work, either in tech or in games. If your team is creating complex, groundbreaking systems or deeply meaningful artistic experiences and you're looking for someone who understands modern systems at the lowest levels, please reach out!
+I just graduated in December 2022---PhD in electrical engineering---and I'm looking for work, either in tech or in games. If your team is creating complex, groundbreaking systems or deeply meaningful artistic experiences and you're looking for someone who understands modern systems at the lowest levels, please reach out!
 
 ### Contact
 
