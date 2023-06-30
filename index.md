@@ -12,4 +12,4 @@ I'm currently happily employed, but if you're creating something that combines s
 
 ### Contact
 
-My name at Google's email service, or Sauraen#0047 on Discord.
+My name at Google's email service, or sauraen (formerly Sauraen#0047) on Discord.
